@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e96b8c61-074c-4781-8ab2-1923511e1c6c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MANIFEST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/Among.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/SnowballProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/SnowballStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/SpecifiedStemmer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/danishStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/dutchStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/englishStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/finnishStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/germanStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/hungarianStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/italianStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/norwegianStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/porterStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/portugueseStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/romanianStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/russianStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/spanishStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/swedishStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/ext/turkishStemmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/org/tartarus/snowball/rootChecker.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libstemmer_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/META-INF/libstemmer_java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/Among.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/SnowballProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/SnowballStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/SpecifiedStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/danishStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/dutchStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/englishStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/finnishStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/germanStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/hungarianStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/italianStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/norwegianStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/porterStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/portugueseStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/romanianStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/russianStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/spanishStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/swedishStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/ext/turkishStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libstemmer_java/org/tartarus/snowball/rootChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/Among.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/Among.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/BigWords$special$$inlined$sortedBy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/BigWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/MainKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/SnowballProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/SnowballProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/SnowballStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/SnowballStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/SpecifiedStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/SpecifiedStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/danishStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/danishStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/dutchStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/dutchStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/englishStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/englishStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/finnishStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/finnishStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/germanStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/germanStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/hungarianStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/hungarianStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/italianStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/italianStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/norwegianStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/norwegianStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/porterStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/porterStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/portugueseStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/portugueseStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/romanianStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/romanianStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/russianStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/russianStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/spanishStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/spanishStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/swedishStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/swedishStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/turkishStemmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/ext/turkishStemmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/libstemmer_java/org/tartarus/snowball/input.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OvzNNCLhbJtdCs9R96BxLyY6DN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/nikvoen/Projects/BestHackathon/libstemmer_java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e96b8c61-074c-4781-8ab2-1923511e1c6c" name="Changes" comment="" />
+      <created>1682455803106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682455803106</updated>
+      <workItem from="1682455804440" duration="734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
