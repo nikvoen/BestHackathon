@@ -104,7 +104,7 @@ fun LongNonSingleRoot(Words : ArrayList<String>,lang : String = "english", n : I
 
 fun main(args: Array<String>) {
     val words = mutableSetOf<String>()
-    File("libstemmer_java/java/org/tartarus/snowball/input.txt").forEachLine { line ->
+    File("java/org/tartarus/snowball/input.txt").forEachLine { line ->
         val lineWords = line.split("[\\p{Punct}\\s]+".toRegex())
         lineWords.forEach { word ->
             words.add(word.lowercase())
