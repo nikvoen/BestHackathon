@@ -5,5 +5,4 @@ class rootChecker(lang: String) {
     fun rootChecker(word1: String, word2: String): Boolean{
         return false;
     }
-
 }

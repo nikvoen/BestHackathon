@@ -1,5 +1,5 @@
 package org.tartarus.snowball
-
+import java.io.File
 import kotlin.math.min
 
 class BigWords(Words: ArrayList<String>) {
@@ -11,7 +11,7 @@ class BigWords(Words: ArrayList<String>) {
     private var sortWords = Array<String?>(1){it -> ""}
     private var countBig = 0;
     init {
-        var bigWordArr = ArrayList<String>()
+        val bigWordArr = ArrayList<String>()
         for (word in Words) {
             if (wordCount.containsKey(word)) {
                 wordCount[word] = wordCount[word]!! + 1
@@ -57,7 +57,7 @@ class BigWords(Words: ArrayList<String>) {
 }
 
 fun rootCompare(str1: String, str2: String): Boolean {
-    var d : Int
+    val d : Int
     val lenStr1 : Int = str1.length
     val lenStr2 : Int = str2.length
     val minLen : Int = min(lenStr1, lenStr2)
@@ -86,8 +86,8 @@ fun LongNonSingleRoot(Words : ArrayList<String>,lang : String = "english", n : I
     val result = ArrayList<Pair<String, Int>>()
     val resultStem = ArrayList<String>()
     while (result.size != n && big.size() != 0){
-        var buf = big.nextWord()
-        var bufStem = s.getStem(buf)
+        val buf = big.nextWord()
+        val bufStem = s.getStem(buf)
         var flag = true
         for (stem in resultStem)
             if (rootCompare(bufStem, stem)) {
@@ -102,10 +102,18 @@ fun LongNonSingleRoot(Words : ArrayList<String>,lang : String = "english", n : I
     return result
 }
 
-
 fun main(args: Array<String>) {
-    val Arr = arrayListOf("apple", "bananas", "banana", "apple", "apple", "cherry", "cherry", "cherry", "cats", "dogs", "cat");
-    println(Arr)
-    for (i in LongNonSingleRoot(Arr, lang = "english", n = 3))
-        println("word - " + i.first + " : lenght = " + i.first.length + " : frequency = " + i.second)
+    val words = mutableSetOf<String>()
+    File("libstemmer_java/java/org/tartarus/snowball/input.txt").forEachLine { line ->
+        val lineWords = line.split("[\\p{Punct}\\s]+".toRegex())
+        lineWords.forEach { word ->
+            words.add(word.lowercase())
+        }
+    }
+
+    val Arr = ArrayList<String>()
+    for(i in words) Arr.add(i)
+
+    for (i in LongNonSingleRoot(Arr, lang = "russian", n = 10))
+        println(i.first + " " + i.first.length + " " + i.second)
 }
